@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-REDUX - LEARNINGS - Following tutorial of dipesh malvia (YouTube - https://youtu.be/0W6i5LYKCSI) (authore NIDHI MAKDANI)
+REDUX - LEARNINGS - Following tutorial of dipesh malvia (YouTube - https://youtu.be/0W6i5LYKCSI) (author NIDHI MAKDANI)
 Steps- 
 1. npx create-react-app redux_app
 2. npm i axios and  npm i react-router-dom
