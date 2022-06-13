@@ -8,10 +8,7 @@ delete files (From public folder - logo,manifest and robots.txt and from src fol
 4.Remove <header>to</header> from app.js file and just write Hello Now we can see simple hello written on sceen 
 5.Intall redux using command - npm install redux react-redux
 
-Now Creating Folder Structure for redux ![Capture](https://user-images.githubusercontent.com/50043246/173301651-7603b240-691b-49a7-bd4a-523e62654d91.PNG)
-![Capture](https://user-images.githubusercontent.com/50043246/173301712-ad6df7fa-fd0b-4b46-b2c0-d6678cafb42c.PNG)
-
-
+Now Creating Folder Structure for redux !
 -in src folder
 
 1.containers (gonna contain all the components)
@@ -129,4 +126,5 @@ root.render(
 );
 
 
-NOW YOU CAN SEE THE DATA IN INSPECT REDUX NOW WHAT IF WE WANT TO ACCESS THAT DATA SO LET'S DO THAT 
+NOW YOU CAN SEE THE DATA IN INSPECT REDUX NOW WHAT IF WE WANT TO ACCESS THAT DATA SO LET'S DO THAT ![Capture](https://user-images.githubusercontent.com/50043246/173302076-868449ed-aad3-451e-aca5-a0bc5c34a5f6.PNG)
+
