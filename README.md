@@ -5,10 +5,12 @@ Steps-
 2. npm i axios and  npm i react-router-dom
 3. remove boiler plate code 
 delete files (From public folder - logo,manifest and robots.txt and from src folder App.test.js, index.css,logo.svg,reportWebVirtuals.js,setupTests.js and remove the reportWebVitals() from index.js) Now we can see clear screen 
-4.Remove <header>to</header> from app.js file and just write <h1>Hello</>  Now we can see simple hello written on sceen 
+4.Remove <header>to</header> from app.js file and just write Hello Now we can see simple hello written on sceen 
 5.Intall redux using command - npm install redux react-redux
 
-Now Creating Folder Structure for redux 
+Now Creating Folder Structure for redux ![Capture](https://user-images.githubusercontent.com/50043246/173301651-7603b240-691b-49a7-bd4a-523e62654d91.PNG)
+![Capture](https://user-images.githubusercontent.com/50043246/173301712-ad6df7fa-fd0b-4b46-b2c0-d6678cafb42c.PNG)
+
 
 -in src folder
 
